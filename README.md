@@ -1,3 +1,3 @@
-A Lara faz muita bagunça
-todo dia 
-o tempo todo
+# Título do meu README
+
+Aqui neste arquivo README teremos as informações relativas ao nosso projeto
